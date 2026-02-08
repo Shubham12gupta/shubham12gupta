@@ -86,10 +86,6 @@ I enjoy automating workflows, improving system reliability, and working on moder
 ---
 
 ## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=shubham12gupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=shubham12gupta&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly crafted with GPRM + manual DevOps polish -->
