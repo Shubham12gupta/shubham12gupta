@@ -12,7 +12,7 @@
 - 🎓 B.Tech IT @ **Madhav Institute of Technology and Science, Gwalior** (2023–2027)
 - ☁️ Specializing in **DevOps, Cloud Engineering, and MLOps**
 - 🔧 Hands-on with **AWS, Azure, Kubernetes, Terraform, Docker, GitOps, CI/CD**
-- 🚀 Building **[SpeakOps](https://github.com/Shubham12gupta/SpeakOps)** — a voice-driven DevOps orchestration tool
+- 🚀 Building **[SpeakOpsX](https://github.com/Shubham12gupta/SpeakOpsX)** — a voice-driven DevOps orchestration tool
 - 📚 Currently upskilling in **Cloud Security, Generative AI, and Observability**
 - 📫 Reach me at **shubhamitair@gmail.com**
 
@@ -22,7 +22,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [SpeakOps](https://github.com/Shubham12gupta/SpeakOps) | Voice-driven DevOps orchestration tool | Python, LLM APIs, Kubernetes |
+| [SpeakOps](https://github.com/Shubham12gupta/SpeakOpsX) | Voice-driven DevOps orchestration tool | Python, LLM APIs, Kubernetes |
 | [Wanderlust](https://github.com/Shubham12gupta) | Travel app deployed on EKS with GitOps | EKS, ArgoCD, Helm, Terraform |
 | [AI Intrusion Detection System](https://github.com/Shubham12gupta) | ML-based network threat detection | Python, Scikit-learn, AWS |
 | [JIVAI](https://github.com/Shubham12gupta) | Medical safety PWA | React, Node.js, Cloud Functions |
