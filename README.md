@@ -22,7 +22,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [SpeakOps](https://github.com/Shubham12gupta/SpeakOpsX) | Voice-driven DevOps orchestration tool | Python, LLM APIs, Kubernetes |
+| [SpeakOpsX](https://github.com/Shubham12gupta/SpeakOpsX) | Voice-driven DevOps orchestration tool | Python, LLM APIs, Kubernetes |
 | [Wanderlust](https://github.com/Shubham12gupta) | Travel app deployed on EKS with GitOps | EKS, ArgoCD, Helm, Terraform |
 | [AI Intrusion Detection System](https://github.com/Shubham12gupta) | ML-based network threat detection | Python, Scikit-learn, AWS |
 | [JIVAI](https://github.com/Shubham12gupta) | Medical safety PWA | React, Node.js, Cloud Functions |
