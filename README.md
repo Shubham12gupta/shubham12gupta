@@ -58,10 +58,16 @@ contact: shubhamitair@gmail.com
 <td><img src="https://img.shields.io/badge/Active-00d9ff?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Shubham12gupta"><b>🌍 Wanderlust</b></a></td>
+<td><a href="https://github.com/Shubham12gupta/Wanderlust_Mega_Project_Shubham"><b>🌍 Wanderlust</b></a></td>
 <td>Production-grade travel app with full GitOps pipeline on EKS — zero-downtime deploys</td>
 <td>EKS · ArgoCD · Helm · Terraform · GitHub Actions</td>
 <td><img src="https://img.shields.io/badge/Deployed-22c55e?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Shubham12gupta/GyanX_Scalable_Backend_System"><b>📚 GyanX</b></a></td>
+<td>Scalable backend system powering an AI-driven EdTech platform — built for high concurrency and low-latency delivery</td>
+<td>Python · FastAPI · PostgreSQL · Docker · AWS</td>
+<td><img src="https://img.shields.io/badge/Active-00d9ff?style=flat-square"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Shubham12gupta"><b>🛡️ AI Intrusion Detection System</b></a></td>
@@ -145,6 +151,7 @@ contact: shubhamitair@gmail.com
 
 ```
 [2024–Present]  Building SpeakOpsX — voice-driven DevOps orchestration
+[2024–Present]  Building GyanX — scalable backend for AI-powered EdTech
 [2024]          Deployed Wanderlust on EKS with full GitOps pipeline
 [2024]          Built AI-based Intrusion Detection System on AWS
 [2024]          Microsoft Elevate Program — 4 weeks of cloud engineering
@@ -179,3 +186,4 @@ contact: shubhamitair@gmail.com
 *Last deployed: auto-updated via GitHub Actions*
 
 </div>
+
